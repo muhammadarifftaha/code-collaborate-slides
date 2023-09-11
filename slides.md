@@ -1,10 +1,10 @@
 ---
 theme: apple-basic
-image: /bg.jpg
+image: /public/bg.jpg
 layout: intro-image
 title: Welcome to CodeColaborate
 author: Muhammad Ariff Taha
-download: /CodeCollaborate.pdf
+download: true
 transition: fade-out
 exportFilename: CodeCollaborate
 export:
@@ -36,7 +36,7 @@ fonts:
 
 ---
 layout: image-left
-image: /alephdevhub.png 
+image: /public/alephdevhub.png 
 transition: slide-left
 class: text-left
 preload: false

@@ -1,5 +1,5 @@
 {
-  "name": "code-collaborate",
+  "name": "code-collaborate-slides",
   "private": true,
   "scripts": {
     "build": "slidev build",

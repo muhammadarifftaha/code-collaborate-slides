@@ -1,6 +1,6 @@
 ---
 theme: apple-basic
-image: /public/bg.jpg
+image: "/bg.jpg"
 layout: intro-image
 title: Welcome to CodeColaborate
 author: Muhammad Ariff Taha
@@ -36,7 +36,7 @@ fonts:
 
 ---
 layout: image-left
-image: /public/alephdevhub.png 
+image: "/alephdevhub.png"
 transition: slide-left
 class: text-left
 preload: false
@@ -328,7 +328,7 @@ We want to make CodeCollaborate as useful as possible for everyone.
   </div>
   <div class="flex flex-col justify-center items-center">
     <p>Scan to Join the Aleph MY Engineering Server</p>
-    <img src="/CodeColaborate.svg" class="w-70 mx-auto" /> 
+    <img src="/AlephMyEngineering.svg" class="w-70 mx-auto" /> 
     <p>Or visit <a href="https://discord.gg/hhD5BfFm">https://discord.gg/hhD5BfFm</a></p>
   </div>
 </div>
